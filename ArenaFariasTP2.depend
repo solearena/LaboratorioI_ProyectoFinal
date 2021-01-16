@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1605304952 source:c:\users\usuario\documents\soleado\facu\utn\laboratorio1\tp integrador-tema2\arenafariastp2\funciones.cpp
+	<iostream>
+	<clocale>
+	"funciones.h"
+	"rlutil.h"
+
+1605304284 c:\users\usuario\documents\soleado\facu\utn\laboratorio1\tp integrador-tema2\arenafariastp2\funciones.h
+
+1605304363 source:c:\users\usuario\documents\soleado\facu\utn\laboratorio1\tp integrador-tema2\arenafariastp2\main.cpp
+	<iostream>
+	"funciones.h"
+	<clocale>
+	"rlutil.h"
+
+1571569938 c:\users\usuario\documents\soleado\facu\utn\laboratorio1\tp integrador-tema2\arenafariastp2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
